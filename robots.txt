@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://bodybwasuke.github.io/sitemap.xml
